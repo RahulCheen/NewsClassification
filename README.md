@@ -1,0 +1,1 @@
+My attempt at using matrix factorization methods to classify news articles per the kaggle BBC News Classification (https://www.kaggle.com/competitions/learn-ai-bbc/overview) competition. I'll compare to supervised learning methods to see how performance improves/changes.
